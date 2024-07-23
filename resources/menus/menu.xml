@@ -1,0 +1,12 @@
+<menu id="MainMenu">
+    <menu-item id="aperol_spritz" label="@Strings.aperol_spritz" />
+    <menu-item id="margarita" label="@Strings.margarita" />
+    <menu-item id="mojito" label="@Strings.mojito" />
+    <menu-item id="old_fashioned" label="@Strings.old_fashioned" />
+    <menu-item id="cosmopolitan" label="@Strings.cosmopolitan" />
+    <menu-item id="pina_colada" label="@Strings.pina_colada" />
+    <menu-item id="martini" label="@Strings.martini" />
+    <menu-item id="daiquiri" label="@Strings.daiquiri" />
+    <menu-item id="manhattan" label="@Strings.manhattan" />
+    <menu-item id="bloody_mary" label="@Strings.bloody_mary" />
+</menu>

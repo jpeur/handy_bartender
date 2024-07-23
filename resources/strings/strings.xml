@@ -1,0 +1,36 @@
+<strings>
+    <string id="AppName">handy_bartender</string>
+
+    <string id="prompt">Let's make some drinks!</string>
+    <string id="click_prompt">Click menu to get started</string>
+
+    <!-- Aperol Spritz -->
+    <string id="aperol_spritz">Aperol Spritz</string>
+
+    <!-- Margarita -->
+    <string id="margarita">Margarita</string>
+
+    <!-- Mojito -->
+    <string id="mojito">Mojito</string>
+
+    <!-- Old Fashioned -->
+    <string id="old_fashioned">Old Fashioned</string>
+
+    <!-- Cosmopolitan -->
+    <string id="cosmopolitan">Cosmopolitan</string>
+
+    <!-- Pina Colada -->
+    <string id="pina_colada">Pina Colada</string>
+
+    <!-- Martini -->
+    <string id="martini">Martini</string>
+
+    <!-- Daiquiri -->
+    <string id="daiquiri">Daiquiri</string>
+
+    <!-- Manhattan -->
+    <string id="manhattan">Manhattan</string>
+
+    <!-- Bloody Mary -->
+    <string id="bloody_mary">Bloody Mary</string>
+</strings>
