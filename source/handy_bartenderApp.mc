@@ -15,6 +15,7 @@ class handy_bartenderApp extends Application.AppBase {
 
     // onStop() is called when your application is exiting
     function onStop(state as Dictionary?) as Void {
+        System.exit();
         
     }
 

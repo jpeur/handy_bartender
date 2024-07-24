@@ -27,17 +27,11 @@ C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_7_2
     }
     [ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 17; ]
     function onStop(state as Dictionary or Null) as Void {
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_17_50_20_4_start:
-[ "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc" 18 8 ]
-        %tmp.2 = getv ? :System;
-        %tmp.3 = getv function %tmp.2 :exit;
-        invoke %tmp.2 %tmp.3();
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_17_50_20_4_stop:
     }
-    [ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 23; ]
+    [ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 22; ]
     function getInitialView() as [Views] or [Views, InputDelegates] {
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_23_68_25_4_start:
-[ "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc" 24 8 ]
+C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_22_68_24_4_start:
+[ "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc" 23 8 ]
         %tmp.1 = newa 2;
         %tmp.5 = getv ? :handy_bartenderView;
         %tmp.2 = newc %tmp.5 ();
@@ -48,19 +42,19 @@ C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_23_
         %tmp.12 = dup %tmp.7;
         %tmp.13 = aputv %tmp.12 1 %tmp.8;
         ret %tmp.13;
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_23_68_25_4_stop:
+C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_22_68_24_4_stop:
     }
 }
-[ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 29; ]
+[ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 28; ]
 function getApp() as handy_bartenderApp {
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_29_40_31_0_start:
-[ "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc" 30 4 ]
+C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_28_40_30_0_start:
+[ "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc" 29 4 ]
     %tmp.1 = getm $.Toybox.Application;
     %tmp.2 = getv function %tmp.1 :getApp;
     %tmp.3 = invoke %tmp.1 %tmp.2();
     %tmp.4 = as %tmp.3 handy_bartenderApp;
     ret %tmp.4;
-C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_29_40_31_0_stop:
+C_Users_jacks_OneDrive_Fun_Code_handy_bartender_source_handy_bartenderApp_mc_28_40_30_0_stop:
 }
 [ @file = "C:\Users\jacks\OneDrive\Fun Code\handy_bartender\source\handy_bartenderApp.mc"; @line = 1; ]
 <init> {

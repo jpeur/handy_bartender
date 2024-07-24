@@ -2,7 +2,7 @@
     <string id="AppName">handy_bartender</string>
 
     <string id="prompt">Let's make some drinks!</string>
-    <string id="click_prompt">Click menu to get started</string>
+    <string id="click_prompt">Click Start</string>
 
     <!-- Aperol Spritz -->
     <string id="aperol_spritz">Aperol Spritz</string>

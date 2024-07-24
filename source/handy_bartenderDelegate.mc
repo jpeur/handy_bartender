@@ -7,7 +7,7 @@ class handy_bartenderDelegate extends WatchUi.BehaviorDelegate {
         BehaviorDelegate.initialize();
     }
 
-    function onMenu() as Boolean {
+    function onSelect() as Boolean {
         WatchUi.pushView(new Rez.Menus.MainMenu(), new handy_bartenderMenuDelegate(), WatchUi.SLIDE_UP);
         return true;
     }
